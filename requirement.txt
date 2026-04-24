@@ -2,3 +2,5 @@ numpy
 matplotlib
 seaborn
 pandas
+tensorflow[and-cuda]
+scikit-learn
